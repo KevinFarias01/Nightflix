@@ -3,3 +3,23 @@ Recriar a interface da Netflix trocando o nome e algumas cores.
 Usar apenas filmes e séries de terror
 
 Tentar colocar elementos de terror no fundo
+
+
+Lista de Filmes:
+
+1- O Exorcista
+2- A hora do Pesadelo
+3- Annabelle 2
+4- Sexta-feira 13
+5- Invocação do Mal
+6-It - A coisa
+7- Pânico
+8- O Chamado
+9- O Bebê de Rosemary
+10- O Massacre da Serra Elétrica
+11- O Ritual
+12 - Carrie, A Estranha
+13 - Madrugada dos Mortos
+14- Brinquedo Assassino
+15 - Mama
+16 - Halloween - A Noite do Terror
