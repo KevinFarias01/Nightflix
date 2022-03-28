@@ -1,0 +1,5 @@
+Recriar a interface da Netflix trocando o nome e algumas cores. 
+
+Usar apenas filmes e séries de terror
+
+Tentar colocar elementos de terror no fundo
