@@ -1,6 +1,7 @@
 :root {
     --vermelho: #E50914;
     --preta: #141414;
+    --azul: rgb(5, 0, 80);
 }
 
 * {
@@ -27,7 +28,7 @@ header .container {
 
 header .logo {
     margin-left: 5px;
-    color: var(--vermelho);
+    color: var(--azul);
     font-family: 'Arial Black', Times;
     font-size: 40px;
 }
@@ -40,13 +41,13 @@ header nav a {
 
 
 header nav a:hover {
-    color: #fff;
+    color: rgb(0, 151, 189);
 }
 
 /*filme principal*/
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50) 100%), url('..//img/capa-house.jpg');
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50) 100%), url('..//img/Terror/O\ exorcista.jpg');
 
     height: 400px;
     background-size: cover;
