@@ -2,6 +2,7 @@
     --vermelho: #E50914;
     --preta: #141414;
     --azul: rgb(5, 0, 80);
+    --azul-claro: rgb(46, 213, 255);
 }
 
 * {
@@ -28,7 +29,7 @@ header .container {
 
 header .logo {
     margin-left: 5px;
-    color: var(--azul);
+    color: var(--azul-claro);
     font-family: 'Arial Black', Times;
     font-size: 40px;
 }
@@ -41,7 +42,7 @@ header nav a {
 
 
 header nav a:hover {
-    color: rgb(0, 151, 189);
+    color: var(--azul-claro);
 }
 
 /*filme principal*/
